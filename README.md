@@ -82,5 +82,10 @@ This project addresses these limitations by:
 - Lightweight hardware requirements
 - Easy integration with downstream bioinformatics workflows
 
+## 📜 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+
 
 
