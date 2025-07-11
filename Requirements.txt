@@ -1,0 +1,14 @@
+
+
+## ✅ `requirements.txt`
+
+torch
+torchvision
+torch-geometric
+biopython
+networkx
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
