@@ -52,7 +52,7 @@ This project addresses these limitations by:
 ---
 
 ## 🧪 Methodology
-![Architecture]
+![Architecture](Architecture)
 1. **Data Processing**
    - Parse PDB files to extract amino acid positions
    - Construct graphs:
