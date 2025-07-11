@@ -1,9 +1,3 @@
-
----
-
-## ✅ `requirements.txt`
-
-```txt
 torch
 torchvision
 torch-geometric
