@@ -82,7 +82,5 @@ This project addresses these limitations by:
 - Lightweight hardware requirements
 - Easy integration with downstream bioinformatics workflows
 
----
 
-## 📁 Folder Structure
 
